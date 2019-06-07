@@ -8,3 +8,6 @@
 .interests{
   text-decoration: underline;
 }
+#objective{
+  max-height: 30vh;
+}
