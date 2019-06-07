@@ -11,3 +11,12 @@
 #objective{
   max-height: 30vh;
 }
+.white{
+color:white;
+}
+.bg-header {
+  height: 100vh;
+  background-image: url("./images/sawtooth.jpg");
+  /* background:no-repeat;
+  background-size:cover; */
+}
